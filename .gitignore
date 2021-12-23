@@ -1,0 +1,5 @@
+# the dict
+*.xml
+
+# jupiter stuff
+/.ipynb_checkpoints
